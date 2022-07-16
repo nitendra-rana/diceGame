@@ -10,20 +10,20 @@
 
 }
 input{
-  border-radius:20px;
+  border-radius:25px;
   background-color: red;
   color: #4ECCA3;
   font-family: 'Lobster', cursive;
 }
 
 body {
-  background-color: #393E46;
+  background-color: #333d4d;
 }
 
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 5px 0 #1e2124;
   font-size: 8rem;
   color: #4ECCA3;
 }
